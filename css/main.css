@@ -1,0 +1,14 @@
+body {
+	background: #00A5CF;
+	font-family: 'Hanalei Fill', cursive;
+}
+.description {
+	float: left;
+	text-align: center;
+	margin-left: 10%;
+}
+.discography {
+	float: right;
+	text-align: center;
+	margin-right: 20%;
+}
